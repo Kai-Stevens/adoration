@@ -11,3 +11,9 @@ A repository about the endless power of the human heart.
 `npm run test` to run all tests
 
 `npm run coverage` to see test coverage
+
+
+### What should we test for?
+- Normal (base cases)
+- Extreme (edge cases)
+- Invalid
